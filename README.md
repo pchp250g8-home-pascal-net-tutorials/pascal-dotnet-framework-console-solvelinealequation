@@ -1,4 +1,4 @@
-SolveLinealEqual. Pascal Tutorials. Platform DotNet FrameWork. Algorithms. Simple Input/Output. Console Application. 
+SolveLinealEqual. Pascal Tutorials. Platform DotNet FrameWork. Algorithms. Simple Input/Output. Console Application.
  A console application in the Pascal programming language. 
 The program does the following:
 1. Asks you to enter the coefficients of the linear equation that needs to be solved.
